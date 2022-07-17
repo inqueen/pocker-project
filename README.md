@@ -1,5 +1,5 @@
 ## Pocker Planning Application Project
 
-<i> Stack: Spring Boot </i>
+:herb: <i> Stack: Spring Boot </i>
 
-<b> Deadline:</b> <u><i>2022 december</u></i>
+:checkered_flag: <b> Deadline:</b> <u><i>2022 december</u></i>
